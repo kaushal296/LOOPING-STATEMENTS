@@ -1,4 +1,4 @@
-# Looping-Statements
+# LOOPING-STATEMENTS
 For Loop and While Loop
 #--------------------------------Loops----------------------------------------
 #-------------For Loop---------------
